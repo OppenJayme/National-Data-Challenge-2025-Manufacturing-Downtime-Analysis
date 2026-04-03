@@ -44,7 +44,7 @@ At the product level, **CO-600** accounts for the highest downtime at **494 minu
 ## Dashboard Preview
 
 <div align="center">
-  <img src="ManufacturingDowntimeAnalysis/ManufacturingDowntimeAnalysis_00.png" alt="Manufacturing Downtime Analysis dashboard" width="1100" />
+  <img src="ManufacturingDowntimeAnalysis/ManufacturingDowntimeAnalysis_00.jpg" alt="Manufacturing Downtime Analysis dashboard" width="1100" />
 </div>
 
 ## Dataset Structure
